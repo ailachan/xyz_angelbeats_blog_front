@@ -3,8 +3,8 @@
     <footer class="ui footer vertical segment index-footer-big">
       <div class="ui center aligned container">
         <div class="ui inverted grey divided stackable">
-          <p class="ui text index-text-lined index-text-thin index-text-spaced">联系我:1739716491@qq.com</p>
-          <p class="ui text index-text-lined index-text-thin index-text-spaced">Copyright ©2021-2022 axiV548</p>
+          <p class="ui text index-text-lined index-text-thin index-text-spaced">联系我:32830121@qq.com</p>
+          <p class="ui text index-text-lined index-text-thin index-text-spaced">Copyright ©2022-2023 aila</p>
           博客已稳定运行：{{ runningDays }}
           <br>
         </div>

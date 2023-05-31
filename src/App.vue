@@ -14,9 +14,8 @@
       type="playlist"
       fixed="true"
       list-olded="true"
-      autoplay="true"
       mutex="true"
-    >
+    ><!--autoplay="true"-->
     </meting-js>
   </div>
 </template>
